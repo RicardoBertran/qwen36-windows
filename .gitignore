@@ -1,0 +1,7 @@
+*.gguf
+*.zip
+*.part
+*.log
+downloads*/
+stage-*/
+llama-b*/
